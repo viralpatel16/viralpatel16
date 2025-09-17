@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Viral Patel  
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)  
+![](https://svg-banners.vercel.app/api?type=glitch&text1=Data%20Analysis%20%26%20Algorithms&text2=Lab%20Manual)
+
+
+
 
 ## 🌟 About Me  
 - 📊 Passionate about **Data Analytics & Business Intelligence**  
@@ -13,9 +16,7 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/viral-patel-1032512bb)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viral.k0907@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pradip._.27/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/viral-patel-1032512bb) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viral.k0907@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]()  
 
 ---
 
@@ -26,10 +27,8 @@
 
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=viralpatel16&theme=radical&hide_border=false&count_private=true&show_icons=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=viralpatel16&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=viralpatel16&theme=radical&layout=compact&hide_border=false)  
+## 📊 GitHub Stats    
+![](https://nirzak-streak-stats.vercel.app/?user=viralpatel16&theme=radical&hide_border=false)    
 
 ---
 
